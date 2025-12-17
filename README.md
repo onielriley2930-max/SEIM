@@ -14,8 +14,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Sentinel
+
 
 <h2>Operating Systems Used </h2>
 
@@ -24,7 +24,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Active Directory
 - Azure (Cloud)to create Virtual Machines.
 - Microsoft Data center (host)
   
@@ -32,4 +31,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/CvkJpC3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fpbUreV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
